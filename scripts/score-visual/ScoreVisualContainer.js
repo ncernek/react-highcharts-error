@@ -1,4 +1,3 @@
-import {connect} from 'react-redux';
 import ScoreVisual from './ScoreVisual';
 import React from 'react';
 
